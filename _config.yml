@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "James Marshall"
   avatar : "/assets/images/logo.png"
-  bio    : This is a personal blog where I share share and discuss various topics related to reverse engineering, and offensive software development 
+  bio    : This is a personal blog where I share and discuss various topics related to reverse engineering, and offensive software development 
   links:
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
