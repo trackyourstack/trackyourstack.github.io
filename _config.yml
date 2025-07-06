@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "James Marshall"
   avatar : "/assets/images/logo.png"
-  bio    : 
+  bio    : Reverse engineering | OFFENSIVE SOFTWARE DEVELOPMENT
   links:
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
