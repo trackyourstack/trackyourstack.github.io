@@ -7,5 +7,7 @@ My name is James Marshall, I am interested in reverse engineering, and the devel
 
 This blog is a personal space where I share various insights and document what I have learned.
 
+# Projects
+
 
 
