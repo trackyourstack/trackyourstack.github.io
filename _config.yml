@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: James Marshall
+title: Exploit5tack
 email: n/a
 description: >- # this means to ignore newlines until "baseurl:"
 
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "James Marshall"
   avatar : "/assets/images/logo.png"
-  bio    : Reverse engineering | OFFENSIVE SOFTWARE DEVELOPMENT
+  bio    : This is a personal blog where I share share and discuss various topics related to reverse engineering, and offensive software development 
   links:
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
@@ -68,7 +68,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/ST10434366"
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
